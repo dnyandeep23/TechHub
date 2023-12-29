@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687340516426",
+    "firebase_url": "https://techhub-ce792-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "techhub-ce792",
+    "storage_bucket": "techhub-ce792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687340516426:android:0807f9c75e771622a662b3",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVRjQiWP6YuLl6oSUuTv5d3K6yErNJfpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
